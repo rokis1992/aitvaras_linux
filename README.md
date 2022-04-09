@@ -1,1 +1,3 @@
-# samogitian_linux
+# Aitvaras_linux
+
+Welcome to Aitvaras Linux distro.
